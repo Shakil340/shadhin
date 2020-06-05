@@ -1,0 +1,223 @@
+*{
+    box-sizing: border-box;
+}
+@media (max-width:1199px)
+    {
+        .slider-content {
+            width: 100%;
+            padding-left: 90px;
+            padding-right: 90px;.
+        }
+    }
+    @media (max-width:991px)
+    {
+        .container, .container-md, .container-sm {
+            max-width: 920px;
+        }
+        section.studio-area {
+            margin-top: 0;
+        }
+        .about-content {
+            padding-top: 0;
+        }
+        .do-img img {
+            max-width: 100%;
+            margin-bottom:0;
+        }
+        .filter-item li {
+            padding: 7px;
+        }
+
+        .filter-item li::after {
+            top: 11px;
+        }
+    }
+    @media (max-width:767px){
+        .container, .container-sm {
+            max-width: 710px;
+        }
+        .our-nav-items li a {
+            font-size: 16px;
+        }
+        .padding-2{
+            padding: 2px;
+        }
+    .top-content{
+        display: block;
+    }
+    .top-left ul {
+        display: block;
+        text-align:center;
+
+    }
+    .top-right ul {
+        justify-content: center;
+    }
+    .top-left ul li,.top-right ul li{
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    }
+    .slider-content .para-1 {
+        font-size: 18px;
+
+    }
+    .slider-content h2 {
+        font-size: 40px;
+  
+    }
+    .slider-content .para-2 {
+        font-size: 11px;
+        margin-bottom: 10px;
+    }
+    .our-btn {
+        padding: 10px 15px;
+    }
+    .abt-img {
+        margin-bottom: 60px;
+    }
+    .filter-item li {
+        padding: 0px;
+    }
+    .filter-item li {
+        padding: 8px;
+        font-size: 12px;
+    }
+    .our-btn {
+        font-size: 11px;
+
+        }
+        .our-bullet {
+            bottom: 15px;
+        }
+        .our-bullet li {
+            width: 5px;
+            height: 5px;
+        }
+        .footer-logo {
+            padding-top: 40px;
+            padding-bottom: 40px;
+        }
+        .footer-logo img {
+            margin-bottom: 25px;
+        }
+        .footer-content {
+            padding-top: 30px;
+        }
+        .footer-content h3 {
+            margin-bottom: 15px;
+
+        }
+        .footer-content ul li i{
+            position: absolute;
+        }
+        .footer-content ul li a {
+            padding-left: 26px;
+            margin-top: -2px;
+    
+        }
+        address{
+            margin: 0;
+        }
+        .footer-content {
+            padding-top: 20px;
+        }
+        .subscribe::after {
+            right: 54%;
+  
+        }
+        .subscribe input {
+            width: 50%;
+        }
+        .submit {
+            right: 50%;
+     
+        }
+        .subscribe {
+            margin-bottom: 25px;
+        }
+
+
+    }
+    @media(max-width:575px){
+        .slider-content h2 {
+            font-size: 30px;
+        }
+        .slider-content .para-1 {
+            font-size: 13px;
+        }
+        .slider-content .para-2 {
+            font-size: 9px;
+            margin-bottom: 10px;
+        }
+        .our-btn {
+        font-size: 8px;
+
+        }
+        .our-bullet {
+            bottom: 20px;
+        }
+        .our-bullet li {
+            width: 4px;
+            height: 4px;
+        }
+        .about-content {
+
+            padding-left: 0;
+
+        }
+        .owl-carousel .owl-item img {
+            width: 40%;
+
+        }
+        .footer-logo {
+            padding-top: 40px;
+            padding-bottom: 40px;
+        }
+        .footer-logo img {
+            margin-bottom: 25px;
+        }
+        .footer-content {
+            padding-top: 30px;
+        }
+        .footer-content h3 {
+            margin-bottom: 15px;
+
+        }
+        .footer-content ul li i{
+            position: absolute;
+        }
+        .footer-content ul li a {
+            padding-left: 26px;
+            margin-top: -2px;
+    
+        }
+        address{
+            margin: 0;
+        }
+        .footer-content {
+            padding-top: 20px;
+        }
+        .subscribe::after {
+            right: 54%;
+  
+        }
+        .subscribe input {
+            width: 50%;
+        }
+        .submit {
+            right: 50%;
+     
+        }
+        .subscribe {
+            margin-bottom: 25px;
+        }
+
+    }
+    @media(max-width:481px){
+        .container{
+            width: 100%;
+        }
+
+    }
+
